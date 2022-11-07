@@ -1,6 +1,6 @@
 # Hello!
 
-I'm Htet, a passionate software engineer from Myanmar
+I'm Htet, a passionate Full-Stack Developer from Myanmar
 
 ## My Projects
 
