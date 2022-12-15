@@ -4,7 +4,7 @@ I'm Htet, a passionate Full-Stack Developer from Myanmar
 
 ## My Projects
 
-* [Chat Valley](https://chat-valley-c8j2.onrender.com/), a video chat application
+* [Chat Valley](https://chat-valley-zx8a.onrender.com), a video chat application
 * [Friends](https://www.youtube.com/watch?v=YVJtvKztXcA), a social networking application
 * [Pinner](https://www.youtube.com/watch?v=REYGXIMTIXY), a dating application
 * [Ask Me](https://askme-sigma.vercel.app/), a question and answer application 
