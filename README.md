@@ -1,6 +1,7 @@
 # Hello!
 
-I'm Htet, a passionate Full-Stack Developer from Myanmar
+👋 I'm Htet, a passionate Full-Stack Developer from Myanmar.
+👯 I’m looking to collaborate on JavaScript, React and Ruby on Rails Project.
 
 ## My Projects
 
