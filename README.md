@@ -1,14 +1,14 @@
 # Hello!
 
 👋 I'm Htet, a passionate Full-Stack Developer from Myanmar.<br />
-👯 I’m looking to collaborate on JavaScript, React, and Ruby on Rails Projects.
+👯 I’m looking to collaborate on JavaScript, React, and Node.js Projects.
 
 ## My Projects
 
+* [DevVerify](https://www.devverify.online/), a full-stack B2B SaaS platform 
+* [StackHire](https://www.stackhire.online/), a modern, end-to-end job board
+* [Freekyi](https://askme-sigma.vercel.app/), free movie streaming website
 * [Chat Valley](https://chat-valley-zx8a.onrender.com), a video chat application
-* [Friends](https://www.youtube.com/watch?v=YVJtvKztXcA), a social networking application
-* [Gamery](https://gamery.onrender.com/), a game download application
-* [Ask Me](https://askme-sigma.vercel.app/), a question and answer application 
 
 And see more projects on this GitHub profile!
 
